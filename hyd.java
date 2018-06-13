@@ -1,4 +1,4 @@
  this is pranaya
-from pulivendla
-
+from pulivedla
+rayalaseema
 
